@@ -24,7 +24,11 @@
 
 ### Soal 3 Implementasi Plugin Text-to-Speech (TTS)
 ### Result
+### [Lihat Video Demonstrasi TTS di Google Drive](https://drive.google.com/file/d/1vWb6d3STC0L_wbccPfqFjlLJHQUeYcPY/view?usp=sharing)
 ![Screenshot ocr_sederhana](images/gambar10.jpg)
+
+
+
 ![Screenrecord ocr_sederhana](images/vid01gif.gif)
 
 
