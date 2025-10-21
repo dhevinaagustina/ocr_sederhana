@@ -22,7 +22,9 @@
 ### Error Message
 ![Screenshot ocr_sederhana](images/gambar09.jpg)
 
-
-
+### Soal 3 Implementasi Plugin Text-to-Speech (TTS)
+### Result
+![Screenshot ocr_sederhana](images/gambar10.jpg)
+![Screenrecord ocr_sederhana](images/vid01gif.gif)
 
 

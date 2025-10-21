@@ -31,8 +31,12 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Plugin kamera dan OCR
   google_mlkit_text_recognition: ^0.13.0
   camera: ^0.10.5+5
+
+  # Text-to-Speech
+  flutter_tts: ^3.8.3
 
    
 
