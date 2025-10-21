@@ -16,6 +16,11 @@
 ### Result
 ![Screenshot ocr_sederhana](images/gambar07.jpg)
 
+### Soal 2 Penyesuaian Tampilan dan Penanganan State/Error
+### Loading Screen
+![Screenshot ocr_sederhana](images/gambar08.jpg)
+### Error Message
+![Screenshot ocr_sederhana](images/gambar09.jpg)
 
 
 
